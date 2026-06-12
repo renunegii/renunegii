@@ -2,9 +2,9 @@
 
 # Hi, I'm Renu Negi &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-> *"I believe every dataset has a story, I just help tell it."*
-
 **Data Analytics &nbsp;·&nbsp; New Delhi, India 🇮🇳**
+
+> *"I believe every dataset has a story, I just help tell it."*
 
 ---
 
