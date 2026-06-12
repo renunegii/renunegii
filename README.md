@@ -4,7 +4,7 @@
 
 **Data Analytics &nbsp;·&nbsp; New Delhi, India 🇮🇳**
 
-> *"I believe every dataset has a story, I just help tell it."*
+> *I believe every dataset has a story, I just help tell it.*
 
 ---
 
