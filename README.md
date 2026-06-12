@@ -1,20 +1,18 @@
 <!-- Header -->
 
 # Hi, I'm Renu Negi &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
-**Data Science & Analytics Intern &nbsp;·&nbsp; New Delhi, India 🇮🇳**
-
-> *"I don't just clean data. I make it confess."*
+> *"I believe every dataset has a story, I just help tell it."*
+**Data Analytics &nbsp;·&nbsp; New Delhi, India 🇮🇳**
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 MCA Student @ VIPS-TC, GGSIPU &nbsp;|&nbsp; B.Sc. CS from Delhi University
-- 🔬 I build end-to-end ML pipelines — from raw messy data to deployed apps
-- 📊 I believe good data viz is just good storytelling with a colourful axis
-- 🎤 Community Builder @ GDG New Delhi — I anchor live tech events on stage
-- ☕ Fun fact: I once caught a data bug at 2am and celebrated with chai
+🎓 MCA Student @ VIPS-TC, GGSIPU &nbsp;|&nbsp; B.Sc. CS from Delhi University
+🔬 I love digging into data, finding patterns, outliers, and the story hiding in the noise
+📊 I believe good data viz is just good storytelling with a colourful axis
+🎤 Core Member @ GDG New Delhi, I'm a community person, and love organising & hosting tech events
+🎨  I come from a design background, which means my EDA notebooks are suspiciously well-commented and colour-coordinated
 
 ---
 
@@ -25,6 +23,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **ML & Data**
