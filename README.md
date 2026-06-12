@@ -54,23 +54,12 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
-
----
-
-### 🔭 Featured Projects
-
-| Project | What It Does | Stack |
-|---|---|---|
-| 🧬 **Parkinson's Disease Predictor** | 94%+ accuracy on vocal biomarkers using XGBoost. Clinical-grade, sensitivity-first evaluation. | XGBoost · Streamlit · Scikit-learn |
-| 🎬 **Movie Recommendation Engine** | Content-based filtering via TF-IDF + Cosine Similarity. Deployed with FastAPI + Streamlit. | NLP · FastAPI · Scikit-learn |
-| 📉 **Customer Churn Predictor** | Predicts churn risk for SaaS ops with a real-time Tableau dashboard. | SQL · Python · Tableau |
-
 ---
 
 ### 📈 Currently Learning
 
 - 🔄 Deep Learning fundamentals (Neural Networks, CNNs)
-- 🧪 A/B Testing & Experimentation Frameworks
+- 📐 Statistical modelling & hypothesis testing
 - ☁️ Cloud Deployment (AWS / GCP basics)
 
 ---
@@ -87,9 +76,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/-renunegi)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:officialrenu1@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=renunegii&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
