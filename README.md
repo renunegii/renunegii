@@ -1,6 +1,6 @@
 <!-- Header -->
 
-# Hi, I'm Renu Negi &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+# Hi, I'm Renu Negi &nbsp; <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28](https://github.com/renunegii/renunegii/blob/1717b357c871997ce7b240e86246a36d769d5709/Github%20image.jpg)">
 
 **Data Analytics &nbsp;·&nbsp; New Delhi, India 🇮🇳**
 
