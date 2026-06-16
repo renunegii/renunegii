@@ -3,7 +3,7 @@
   <img src="Github image.jpg" width="150" align="right"/>
 
   <h1>Hi there, I'm Renu Negi
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    
   </h1>
   
   **Data Analytics · New Delhi, India 🇮🇳**
