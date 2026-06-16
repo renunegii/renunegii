@@ -5,19 +5,13 @@
   <h1>Hi there, I'm Renu Negi
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </h1>
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&width=435&lines=Welcome+to+my+GitHub+%F0%9F%8C�;Data+Analyst+%7C+ML+Enthusiast;I+turn+data+into+stories+%E2%9C%A8)](https://git.io/typing-svg)
-
+  
   **Data Analytics · New Delhi, India 🇮🇳**
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&width=435&lines=Welcome+to+my+GitHub;Data+Analyst+%7C+ML+Enthusiast;I+turn+data+into+stories+%E2%9C%A8)](https://git.io/typing-svg)
 
   > *"I believe every dataset has a story, I just help tell it."*
 </div>
-
-# Hi, I'm Renu Negi &nbsp; <img src="Github image.jpg" width="200">
-
-**Data Analytics &nbsp;·&nbsp; New Delhi, India 🇮🇳**
-
-> *I believe every dataset has a story, I just help tell it.*
 
 ---
 
