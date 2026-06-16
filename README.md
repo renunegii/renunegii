@@ -2,7 +2,7 @@
 <div align="left">
   <img src="Github image.jpg" width="150" align="right"/>
 
-  <h1 style="border:none">Hi there, I'm Renu Negi</h1>
+  <p><strong style="font-size:2em">Hi there, I'm Renu Negi 👋</strong></p>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&width=435&lines=Welcome+to+my+GitHub;Data+Analyst+%7C+ML+Enthusiast;I+turn+data+into+stories+%E2%9C%A8)](https://git.io/typing-svg)
   **Looking for Data Analyst Internsship/Apprenticeship, India 🇮🇳**
