@@ -1,6 +1,6 @@
 <!-- Header -->
 
-# Hi, I'm Renu Negi &nbsp; <img src="Github image.jpg">
+# Hi, I'm Renu Negi &nbsp; <img src="Github image.jpg" width="30">
 
 **Data Analytics &nbsp;·&nbsp; New Delhi, India 🇮🇳**
 
