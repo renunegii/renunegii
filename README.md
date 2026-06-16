@@ -6,7 +6,7 @@
     
   </h1>
   
-  **Data Analytics · New Delhi, India 🇮🇳**
+  **Looking for Data Analyst Internsship/Apprenticeship, India 🇮🇳**
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&width=435&lines=Welcome+to+my+GitHub;Data+Analyst+%7C+ML+Enthusiast;I+turn+data+into+stories+%E2%9C%A8)](https://git.io/typing-svg)
 
@@ -17,17 +17,17 @@
 
 ### 🧠 About Me
 
-- 🎓 MCA Student @ VIPS-TC, GGSIPU &nbsp;|&nbsp; B.Sc. CS from Delhi University
-- 🔬 I love digging into data, finding patterns, outliers, and the story hiding in the noise
-- 📊 I believe good data viz is just good storytelling with a colourful axis
-- 🎤 Core Member @ GDG New Delhi, I'm a community person, and love organising & hosting tech events
-- 🎨  I come from a design background, which means my EDA notebooks are suspiciously well-commented and colour-coordinated
-
+-  MCA Student @ VIPS-TC, GGSIPU &nbsp;|&nbsp; B.Sc. CS from Delhi University
+-  I love digging into data, finding patterns, outliers, and the story hiding in the noise
+-  Core Member @ GDG New Delhi, I'm a community person, and love organising & hosting tech events
+-  GDSC Design Lead @ SRCASW
+-  I come from a design background, which means my EDA notebooks are suspiciously well-commented and colour-coordinated
+  
 ---
 
 ### 🛠️ Things I Work With
 
-**Languages & Querying**
+**Tech Stack**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
