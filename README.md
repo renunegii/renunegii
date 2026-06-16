@@ -6,11 +6,12 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&width=500&lines=Hi+there%2C+I'm+Renu+Negi+👋"/>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=000000&width=500&lines=Hi+there%2C+I'm+Renu+Negi+👋"/>
   </picture>
-  
+
+  > *"I believe every dataset has a story, I just help tell it."*
+
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&width=435&lines=Welcome+to+my+GitHub;Data+Analyst+%7C+ML+Enthusiast;I+turn+data+into+stories+%E2%9C%A8)](https://git.io/typing-svg)
   
-  **Looking for Data Analyst Internsship/Apprenticeship, India 🇮🇳**
-  > *"I believe every dataset has a story, I just help tell it."*
+
 </div>
 
 ---
