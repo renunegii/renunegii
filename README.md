@@ -3,7 +3,7 @@
   <img src="Github image.jpg" width="150" align="right"/>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&width=500&lines=Hi+there%2C+I'm+Renu+Negi+👋"/>
+    <source media="(prefers-color-scheme: dark)" srcset="font=Fira+Code&size=32&pause=1000&color=FFFFFF&width=500&lines=Hi+there%2C+I'm+Renu+Negi+👋"/>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=000000&width=500&lines=Hi+there%2C+I'm+Renu+Negi+👋"/>
   </picture>
   
